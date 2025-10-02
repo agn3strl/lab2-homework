@@ -22,9 +22,8 @@
 7. **Конец**
 
 ### Блок-схема
-![Блок-схема алгоритма](<img width="170" height="441" alt="решение дз лаба2" src="https://github.com/user-attachments/assets/5d43289e-e45d-4fa8-9930-b905aa52e8bc" />
-) 
-file:///C:/Users/agnit/Downloads/%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B7%20%D0%BB%D0%B0%D0%B1%D0%B02.html
+
+https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank&layers=1&nav=1&title=%D1%80%D0%B5%D1%88%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B4%D0%B7%20%D0%BB%D0%B0%D0%B1%D0%B02.html&dark=auto#R%3Cmxfile%3E%3Cdiagram%20name%3D%22%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%E2%80%94%201%22%20id%3D%22UUZ0zvsHhKDI9sizftYO%22%3E7Zlbb5swFMc%2FTV4mdeIe8tiQdHtYpUh56Po0OdiAOwcz4zTJPv0MmIsxVdJ2LFPbF4SPb%2FH%2Fd86xTSZ2sD18YSBLbilEZGIZ8DCxFxPL8k1HPAvDsTK4U78yxAzDymS2hjX%2BjaTRkNYdhihXGnJKCceZagxpmqKQKzbAGN2rzSJK1FkzECPNsA4B0a13GPJELsuatvavCMdJPbPpzaqaLagby5XkCYB03zHZy4kdMEp59bY9BIgU2tW6VP1unqhtfhhDKT%2Bnw8394sowV%2BbtbQIfjLtVMIt%2BXclRHgHZyQXLH8uPtQJiFCG2KMz3CeZonYGwqNkL3MKW8C0RJVO8RpiQgBLKyn42BMiPQmHPOaM%2FUafGC320iUSNnBwxjg5PrspstBI%2BhugWcXYUTWQHu5ZX%2BpfpyfK%2BpWV6XmVLOqQc2Q5IB4mboVsNxYuU8RmS2mdImsLrwjdFKSQgz3GoKsnoLoWomMRoVEJQc9STGnU0cA1dgtrGEAEcP6rDD%2BkiZ1hRLCZuEDiGisAyetLmdMdCJHt1PfTUQH1GHLAYcW2gElOz7JeTc06TE0GcFa9CfEAIIjRmYCsYZYhhMT1i%2FbpVW3E6fg6ozoBD8eQiHzpD8eRbG1u4%2BCjx1DBQ4mnAmUaLJ%2Fe9xZM9m312VQj%2BCyNKH6rh%2B49iytPoccoB%2BbHBZd%2FSZMjCp3K%2FRznPNcIqwedtRFEUWeHgRgS9jeeOFDhN%2BWKBM9XjRPj8WhYp4wmNaQrIsrX2IqVt843STKr7gDg%2FyjQFdpyq2qMD5t%2BL7sLvqtJ9p2ZxkCOXheMzA1KspfT70ym8cupT7XSWZ0fuq8D4HxnN9v5aRnP6x42RM9rsg57Tz1mvoNff2kamV98r3zM%2Bt38GeDk%2Btx%2FHY%2BOz9PNE8SmgPkkoh4viPJG9gaNEk%2BEudpQw9UttJft7vx416etyaM64tf7nn3DM6XBOudgnHHPgzimyxXxRPo2J0Mqf1u%2FiOS%2BfS013oQnX1EtpWpAABMdpscMIlUr372ov23TIFArjEJBr2W2LISRPER3aoF6HaGoriEzP1RANeb09GiH9XlkyuJYkWlpuSct7y2zUlORenM1UY1Pf6oPmsh8M7s1vForljAZFFNs%2FEapzVvtPjL38Aw%3D%3D%3C%2Fdiagram%3E%3C%2Fmxfile%3E
 
 ## 2. Реализация программы
 
